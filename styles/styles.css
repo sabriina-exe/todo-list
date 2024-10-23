@@ -1,0 +1,12 @@
+
+.close {
+    cursor: pointer;
+    color: red;
+    float: right;
+    font-weight: bold;
+}
+
+.checked {
+    text-decoration: line-through;
+    color: gray;
+}
